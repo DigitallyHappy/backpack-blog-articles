@@ -2,8 +2,6 @@
 
 This repository should hold drafts for [BackpackForLaravel.com](https://backpackforlaravel.com) articles, and allow people to receive feedback and collaborate on them. **If you have an idea for a good blog post, please submit an issue. If your idea gets approved, you can submit a PR with the article.**
 
-_Note: This repository is hosted within the DigitallyHappy organisation because it's intended to become _private_, and we can't do that in the Backpack organisation, because it has too many members. Private repositories in the Backpack organisation would cost thousands of dollars every month._
-
 ---
 
 # Authors
