@@ -6,11 +6,8 @@ This repository should hold drafts for [BackpackForLaravel.com](https://backpack
 
 # Authors
 
-### Paid Authors
-
-**We're experimenting with the idea of paying authors for important blog posts.** This would provide:
+**We're experimenting with guest posting on backpackforlaravel.com.** This would provide:
 - the author 
-  - _some_ money for his work (somewhere around $100 per article)
   - recognition (author is clearly stated)
   - link back to his website or project (within the blog post, or in signature)
   - promotion within our community and marketing channels;
@@ -18,11 +15,7 @@ This repository should hold drafts for [BackpackForLaravel.com](https://backpack
 - Backpack developers 
   - simple tutorials for the biggest pain points they have
 
-To see what articles we deem important enough to pay for them, please check out the issues section on this repository.
-
-### Non Paid Authors
-
-All non-paid authors would have the same benefits as paid authors, except for the actual payment. If the subject is not someting we consider super-important, we could still publish your article. Submit an issue and we'll let you know. But. We reserve the right to restrict what content ends up on our blog. We want the blog to be _very_ high quality, so only high-quality posts will be published.
+To see what articles we think are a priority, please check out the issues section on this repository.
 
 --- 
 
@@ -30,7 +23,7 @@ All non-paid authors would have the same benefits as paid authors, except for th
 
 ### How to submit an idea
 
-Add a new issue to this repository. Please mention if you're willing to write it yourself, whether it is for free or paid.
+Add a new issue to this repository. Please mention if you're willing to write it yourself, or just think it's a good idea because it's something that's not exactly easy to do, and an article would make it easier.
 
 ### How to submit an article
 
